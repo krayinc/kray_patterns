@@ -14,6 +14,5 @@ KRAYパターンとは、[KRAY](http://kray.jp)の理想的な状態を描くパ
 3. [アンサンブルチーム](patterns/ensemble_team.md)
 4. [ファミリーパートナー](patterns/family_partner.md)
 5. [アグレッシブ導入](patterns/aggressive_adoption.md)
+6. [トレーニングオフィス](patterns/training_office.md)
 7. [旅するオフィス](patterns/traveling_office.md)
-
-<!-- 6. [トレーニングオフィス](patterns/training_office.md) -->
