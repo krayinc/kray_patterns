@@ -19,3 +19,4 @@ KRAYパターンとは、[KRAY](http://kray.jp)の理想的な状態を描くパ
 8. [幸せな失敗](patterns/happy_failure.md)
 9. [勇者の選択](patterns/heroic_decision.md)
 9. [まきこみ](patterns/embroil_client.md)
+9. [生産的な環境](patterns/productive_environment.md)
