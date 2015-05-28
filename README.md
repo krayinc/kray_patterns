@@ -22,4 +22,3 @@ KRAYパターンとは、[KRAY](http://kray.jp)の理想的な状態を描くパ
 9. [生産的な環境](patterns/productive_environment.md)
 9. [自己改革チーム](patterns/self_renovation.md)
 9. [マネーの両輪](patterns/two_wheels_of_money.md)
-9. [ロールプレイング](patterns/role_playing.md)
